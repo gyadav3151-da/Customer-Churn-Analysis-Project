@@ -1,3 +1,7 @@
+-- Customer Churn Analysis
+-- Author: Gaurav Yadav
+-- Description: SQL scripts of final table used for data preparation and analysis
+
 /* =============================================
    CREATE DATABASE AND SELECT IT
 ============================================= */

@@ -1,6 +1,6 @@
 -- Customer Churn Analysis
 -- Author: Gaurav Yadav
--- Description: SQL scripts for setting up staging table for final table
+-- Description: SQL scripts for setting up the staging table
 
 /* =============================================
    CREATE DATABASE AND SELECT IT

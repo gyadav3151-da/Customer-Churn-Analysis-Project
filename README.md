@@ -101,7 +101,8 @@ This project analyzes **customer churn behavior** in a telecom company to identi
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](images/Customer_Churn.jpg)
+![Dashboard Insights Screenshot](images/Customer_Churn_Insights.jpg)
 
 ---
 
